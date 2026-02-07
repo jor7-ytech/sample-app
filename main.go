@@ -1,7 +1,5 @@
 package main
 import (
-    "fmt"
-    "html"
     "image"
     "image/color"
     "image/draw"
